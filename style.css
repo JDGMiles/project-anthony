@@ -1,0 +1,9 @@
+    body {
+      background-color: black;
+    }
+
+    p {
+      color: magenta;
+      font-family: monospace;
+      font-size: 50px;
+    }
