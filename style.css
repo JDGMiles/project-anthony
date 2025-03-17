@@ -2,8 +2,10 @@
       background-color: black;
     }
 
+    a,
     p {
-      color: magenta;
+      text-align: left;
+      color: white;
       font-family: monospace;
-      font-size: 50px;
+      font-size: 30px;
     }
